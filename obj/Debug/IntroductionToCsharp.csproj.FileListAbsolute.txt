@@ -1,0 +1,12 @@
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\IntroductionToCsharp.csproj.AssemblyReference.cache
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\IntroductionToCsharp.csproj.CoreCompileInputs.cache
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ProjectA.TeamA.dll
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ProjectA.TeamB.dll
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ProjectA.TeamA.pdb
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ProjectA.TeamB.pdb
+C:\Users\107018\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\IntroductionToCsharp.csproj.CopyComplete
